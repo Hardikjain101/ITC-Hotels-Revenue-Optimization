@@ -1,4 +1,4 @@
-# ITC Hotels Revenue Optimization Dashboard  
+ii# ITC Hotels Revenue Optimization Dashboard  
 
 This project involves creating an interactive, multi-page Power BI dashboard for **ITC Hotels**, a luxury hotel chain. The dashboard provides stakeholders with real-time insights into financial performance, occupancy trends, booking behaviors, and room category performance. By addressing key revenue optimization challenges, this dashboard empowers stakeholders to make data-driven decisions, enhance customer satisfaction, and minimize revenue losses.
 
@@ -117,8 +117,6 @@ This Power BI dashboard equips ITC Hotels with the tools to monitor financial pe
 Data Analytics Enthusiast | [LinkedIn](https://www.linkedin.com)  
 
 ---
-
-## 📄 License  
-This project is licensed under the MIT License.  
+ 
 
 Feel free to contribute or suggest improvements! 😊  
